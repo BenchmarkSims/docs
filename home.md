@@ -2,7 +2,7 @@
 title: Welcome To Falcon BMS documentation website
 description: The home for Falcon BMS public documentation
 published: true
-date: 2023-03-26T15:25:28.895Z
+date: 2023-05-09T13:14:20.754Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-26T15:14:20.880Z
@@ -21,4 +21,5 @@ Simply refer to the following website to understand how to structure your page:
 - [Markdown](https://docs.requarks.io/editors/markdown)
 - [Asciidocs](https://docs.asciidoctor.org/asciidoc/latest/)
 
-You can also work from [Github](https://github.com/BenchmarkSims/docs) to update those pages.
+For external contributors, you can work from [Github](https://github.com/BenchmarkSims/docs) to update those pages.
+(The process will require you to fork and "pull request" on the main branch your changes)

@@ -20,3 +20,5 @@ Simply refer to the following website to understand how to structure your page:
 
 - [Markdown](https://docs.requarks.io/editors/markdown)
 - [Asciidocs](https://docs.asciidoctor.org/asciidoc/latest/)
+
+You can also work from [Github](https://github.com/BenchmarkSims/docs) to update those pages.
